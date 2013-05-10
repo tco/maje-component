@@ -6,5 +6,20 @@
     "stampit": "~0.1.3"
   },
   "devDependencies": {},
-  "engine": "node >= 0.4.1"
+  "engine": "node >= 0.4.1",
+  "gitHead": "0774bdeec48db4e6dc4b670a46b7ad0675c73cb0",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tco/maje-component.git"
+  },
+  "keywords": [
+    "maje",
+    "component"
+  ],
+  "license": "BSD"
 }
